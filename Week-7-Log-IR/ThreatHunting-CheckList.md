@@ -1,0 +1,2 @@
+Threat hunting is a proactive cybersecurity practice where analysts actively search for hidden threats in an organization's systems—before alarms go off or damage is done. 
+Instead of waiting for alerts from antivirus or firewalls, threat hunters dig into logs, network traffic, and endpoint data to uncover stealthy attacks that evade traditional defenses.
